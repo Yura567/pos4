@@ -1,0 +1,30 @@
+.box{
+    text-align: center;
+    font-size: 40px;
+    color: orange;
+    font-weight: 900;
+    margin-bottom: 100px;
+}
+
+.box2{
+   border: 2px solid orange;
+    height: 300px;
+    margin-right: 600px;
+    margin-left: 600px;
+    background-image: url(goiteens-150526091727-lva1-app6891-thumbnail-4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-bottom: 100px;
+}
+.box3{
+ height: 50px;
+    font-size: 26px;
+        text-align:center;
+   
+    font-family:cursive;
+    padding: 50px;
+    background-color: orange;
+   
+}
+
